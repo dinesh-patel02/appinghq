@@ -1,0 +1,17 @@
+streamlit==1.50.0
+Authlib==1.6.5
+gspread
+google-auth
+langchain-community
+langchain-text-splitters
+langchain-core
+faiss-cpu
+pymupdf
+python-dotenv
+pydantic
+sentence-transformers
+tenacity
+openai
+tavily-python
+pandas
+supabase

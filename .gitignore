@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+faiss_index/
+*.pdf
+.DS_Store
+venv/
+.venv/
+.streamlit/secrets.toml
+profile_presets.json
+*.csv
